@@ -1,0 +1,51 @@
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Laba1
+{
+    class Huffman
+    {
+        public void CompressFile(string dataFilename, string archFilename)
+        {
+            byte[] data = File.ReadAllBytes(dataFilename);
+            byte[] arch = CompressBytes(data);
+            File.WriteAllBytes(archFilename, arch);
+        }
+
+        private byte[] CompressBytes(byte[] data)
+        {
+            int[] freqs = CalculateFreq(data);
+            byte[] head = CreateHeader(data.Length, freqs);
+            Node root = CreateHuffmanTree(freqs);
+            string[] codes = CreateHuffmanCode(root);
+            byte[] bits = Compress(data, codes);
+            return head.Concat(bits).ToArray();
+        }
+
+        public void DeCompressFile(string archFilename, string dataFilename)
+        {
+            byte[] arch = File.ReadAllBytes(archFilename);
+            byte[] data = DeCompressBytes(arch);
+            File.WriteAllBytes(dataFilename, data);
+        }
+
+        private byte[] DeCompressBytes(byte[] arch)
+        {
+            ParseHeader(arch, out int dataLength, out int startIndex, out int[] freqs);
+            Node root = CreateHuffmanTree(freqs);
+            byte[] data = DeCompress(arch, startIndex, dataLength, root);
+            return data;
+        }
+
+        private void ParseHeader(byte[] arch, out int dataLength, out int startIndex, out int[] freqs)
+        {
+            dataLength = arch[0] | (arch[1] << 8) | (arch[1] << 16) | (arch[1] << 24);
+            freqs = new int[256];
+            for (int j = 0; j < 256; j++)
+                freqs[j] = arch[4+j];
+            startIndex = 4 + 256;
+        }

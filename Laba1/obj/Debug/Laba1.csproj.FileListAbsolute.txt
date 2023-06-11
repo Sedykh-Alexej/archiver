@@ -1,0 +1,136 @@
+C:\Users\Алексей\source\repos\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Алексей\source\repos\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\Алексей\source\repos\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\AddEdidPage.g.cs
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\StudentPage.g.cs
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\App.g.cs
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\Laba1_MarkupCompile.cache
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\Laba1_MarkupCompile.lref
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\AddEdidPage.baml
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\MainWindow.baml
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\StudentPage.baml
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\Laba1.g.resources
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Алексей\source\repos\Laba1\Laba1\obj\Debug\App.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\bin\Debug\Laba1.exe.config
+C:\Users\Алексей\Desktop\Laba1\Laba1\bin\Debug\Laba1.exe
+C:\Users\Алексей\Desktop\Laba1\Laba1\bin\Debug\Laba1.pdb
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\LabePage.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\App.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1_MarkupCompile.cache
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1_MarkupCompile.lref
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\App.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\LabePage.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1.g.resources
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1.exe
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1.pdb
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Exercise1.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Exercise1.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task1.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task1.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task2.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task3.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task4.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task2.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task3.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task4.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task10.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task11.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task12.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task5.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task6.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task7.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task8.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task9.g.cs
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task10.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task11.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task12.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task5.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task6.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task7.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task8.baml
+C:\Users\Алексей\Desktop\Laba1\Laba1\obj\Debug\Laba1Task9.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\bin\Debug\Laba1.exe.config
+D:\Учёба\Алгоритмизация\Laba1\Laba1\bin\Debug\Laba1.exe
+D:\Учёба\Алгоритмизация\Laba1\Laba1\bin\Debug\Laba1.pdb
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Exercise1.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task1.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task10.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task11.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task12.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task2.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task3.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task4.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task5.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task6.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task7.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task8.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task9.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\LabePage.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\MainWindow.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\App.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1_MarkupCompile.cache
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1_MarkupCompile.lref
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\App.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Exercise1.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task1.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task10.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task11.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task12.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task2.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task3.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task4.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task5.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task6.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task7.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task8.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1Task9.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\LabePage.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\MainWindow.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1.g.resources
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1.exe
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba1.pdb
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Exercise2.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba2Task1.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Exercise2.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba2Task1.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba2Task2.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba2Task2.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba2Task3.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba2Task4.g.cs
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba2Task3.baml
+D:\Учёба\Алгоритмизация\Laba1\Laba1\obj\Debug\Laba2Task4.baml
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\bin\Debug\Laba1.exe.config
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\bin\Debug\Laba1.exe
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\bin\Debug\Laba1.pdb
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\Laba1.csprojAssemblyReference.cache
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\LabePage.g.cs
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\MainWindow.g.cs
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\App.g.cs
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\Laba1_MarkupCompile.cache
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\Laba1_MarkupCompile.lref
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\App.baml
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\LabePage.baml
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\MainWindow.baml
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\Laba1.g.resources
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\Laba1.Properties.Resources.resources
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\Laba1.csproj.GenerateResource.cache
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\Laba1.csproj.CoreCompileInputs.cache
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\Laba1.exe
+D:\Программирование\Институт\Практика 1 курс\Laba1\Laba1\obj\Debug\Laba1.pdb
